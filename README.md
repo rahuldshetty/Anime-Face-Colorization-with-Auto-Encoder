@@ -3,6 +3,9 @@
 # Kaggle Link
 [Kaggle Link](https://www.kaggle.com/rahuldshetty/anime-face-colorization-gan)
 
+# Usage
+Run test.py and specify the index of image from the 'data' folder. make sure the dependencies are installed. 'model.h5' contains the pretrained model.
+
 # Screenshots
 
 Real Image             |  Gray Scale L Image        |  Model Predicted Image
